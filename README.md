@@ -1,6 +1,6 @@
 # Website Link
 
-jo-saa-analysis.vercel.app
+https://jo-saa-analysis.vercel.app/
 
 # JOSAA Seat Allotment Portal
 
